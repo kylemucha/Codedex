@@ -1,3 +1,3 @@
 # Things I am learning on Codedex! 
 
-Run it
+Topics I have learned so far: HTML
