@@ -1,0 +1,19 @@
+#invite-wrapper {
+    width: 50%;
+    padding: 25px;
+    background-color: rgb(150,150,300);
+    color: #ff0000;
+  }
+  
+  h1 {
+    font-family: monospace;
+    text-align: center;
+  }
+  
+  #invite-text {
+    width: 86%
+  }
+  
+  #itinerary {
+    text-align: center;
+  }
