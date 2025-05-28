@@ -26,6 +26,7 @@ li > div {
   width: 90%;
   background-color: rgb(169, 206, 221);
   text-align: center;
+  margin: auto;
 }
 
 .post-wrapper {
@@ -35,6 +36,8 @@ li > div {
   padding-top: 50px;
   padding-right: 50px;
   padding-left: 50px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .post-img {
