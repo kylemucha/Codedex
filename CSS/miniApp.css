@@ -1,4 +1,10 @@
 * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
   font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 }
 
@@ -27,6 +33,10 @@ li > div {
   background-color: rgb(169, 206, 221);
   text-align: center;
   margin: auto;
+}
+
+#post-list {
+  padding-left: 40px;
 }
 
 .post-wrapper {
